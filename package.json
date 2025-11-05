@@ -1,7 +1,12 @@
 {
-  "name": "getservertime",
+  "name": "time",
   "version": "1.0.0",
-  "description": "Get server time from Appwrite",
   "main": "getServerTime.js",
-  "dependencies": {}
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
