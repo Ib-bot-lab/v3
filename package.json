@@ -1,0 +1,7 @@
+{
+  "name": "getservertime",
+  "version": "1.0.0",
+  "description": "Get server time from Appwrite",
+  "main": "getServerTime.js",
+  "dependencies": {}
+}
